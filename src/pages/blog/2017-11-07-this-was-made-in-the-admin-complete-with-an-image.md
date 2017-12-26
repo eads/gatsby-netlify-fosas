@@ -1,7 +1,7 @@
 ---
 contentType: blog
 path: /madeinadmin
-title: Admin Test
+title: Weird stuff
 date: 2017-11-08T06:15:05.907Z
 attachments:
   - filename: /files/hynocat.jpg
